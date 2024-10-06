@@ -1,0 +1,12 @@
+.links {
+    text-align: center;
+    flex-grow: 1;
+}
+
+.links a {
+    margin: 0 8px;
+}
+
+.links a, .links a:visited {
+    color: #81FE88;
+}
